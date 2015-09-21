@@ -1,2 +1,2 @@
 # datasciencecoursera
-For course project evaluation
+For Coursera course project 
